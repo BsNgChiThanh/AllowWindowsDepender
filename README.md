@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/cae0e928-d684-4e71-bd58-f20b1cf6d228)# Cho phép Windows Depender chạy một chưng trình mà lẽ thường nó đã chặn lại
-
+# Cho phép Windows Depender chạy một chưng trình mà lẽ thường nó đã chặn lại
+- ![image](https://github.com/user-attachments/assets/892ab962-1334-4126-9b74-42be48da0f04)
+- ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 - ![image](https://github.com/user-attachments/assets/74297ddd-6e12-4916-9b20-fd944cb4dc96)
 - Bình thường khi chạy một chương trình nếu bị **Windows Depender** chặn lại, nhưng ta biết nó không có virus, cố ý muốn nó chạy, ta làm như sau:
 - Mở **Windows Depender**:
